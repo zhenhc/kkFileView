@@ -2,7 +2,6 @@ package cn.keking.web;
 
 import cn.hutool.http.HttpRequest;
 import org.junit.jupiter.api.Test;
-import org.springframework.util.StreamUtils;
 
 
 import java.io.*;
